@@ -1,7 +1,7 @@
 
-nuevo archivo de texto
+# nuevo archivo de texto
 
-Info del curso 
-etc
-etc!!!!
+- Info del curso 
+- etc
+- etc!!!!
 
