@@ -8,5 +8,5 @@
 - Examen!!!!
 
 Requisitos:
-- Proximamente
-- iniciando ....
+- Mayor de 18
+- Secu completo

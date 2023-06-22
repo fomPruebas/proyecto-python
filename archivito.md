@@ -1,5 +1,5 @@
 
-#nuevo archivo de texto
+# nuevo archivo de texto
 
 - Info del curso 
 - etc
