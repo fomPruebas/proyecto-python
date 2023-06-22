@@ -3,3 +3,5 @@
 - variables
 - estructuras
 - funciones
+- archivos
+- sqlite
