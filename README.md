@@ -6,3 +6,6 @@
 - archivos
 - sqlite
 - Examen!!!!
+
+Requisitos:
+- Proximamente
